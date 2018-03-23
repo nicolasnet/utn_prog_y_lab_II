@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase1\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+D:\VisualStudio\Clase1\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+D:\VisualStudio\Clase1\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+D:\VisualStudio\Clase1\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+D:\VisualStudio\Clase1\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 4\bin\Debug\Ejercicio 4.pdb

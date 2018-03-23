@@ -1,0 +1,12 @@
+D:\VisualStudio\Clase1\Clase1\bin\Debug\Clase1.exe.config
+D:\VisualStudio\Clase1\Clase1\bin\Debug\Clase1.exe
+D:\VisualStudio\Clase1\Clase1\bin\Debug\Clase1.pdb
+D:\VisualStudio\Clase1\Clase1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase1\Clase1\obj\Debug\Clase1.exe
+D:\VisualStudio\Clase1\Clase1\obj\Debug\Clase1.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Clase1\bin\Debug\Clase1.exe.config
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Clase1\bin\Debug\Clase1.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Clase1\bin\Debug\Clase1.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Clase1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Clase1\obj\Debug\Clase1.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Clase1\obj\Debug\Clase1.pdb

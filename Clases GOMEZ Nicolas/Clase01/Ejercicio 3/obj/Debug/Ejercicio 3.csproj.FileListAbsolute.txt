@@ -1,0 +1,11 @@
+D:\VisualStudio\Clase1\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+D:\VisualStudio\Clase1\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+D:\VisualStudio\Clase1\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+D:\VisualStudio\Clase1\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+D:\VisualStudio\Clase1\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 3\obj\Debug\Ejercicio 3.csprojResolveAssemblyReference.cache
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase1\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
