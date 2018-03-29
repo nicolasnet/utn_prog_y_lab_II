@@ -1,0 +1,6 @@
+D:\VisualStudio\GOMEZ Nicolas\Clase02\Ejercicio 10\bin\Debug\Ejercicio 10.exe.config
+D:\VisualStudio\GOMEZ Nicolas\Clase02\Ejercicio 10\bin\Debug\Ejercicio 10.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase02\Ejercicio 10\bin\Debug\Ejercicio 10.pdb
+D:\VisualStudio\GOMEZ Nicolas\Clase02\Ejercicio 10\obj\Debug\Ejercicio 10.csprojResolveAssemblyReference.cache
+D:\VisualStudio\GOMEZ Nicolas\Clase02\Ejercicio 10\obj\Debug\Ejercicio 10.exe
+D:\VisualStudio\GOMEZ Nicolas\Clase02\Ejercicio 10\obj\Debug\Ejercicio 10.pdb
