@@ -1,0 +1,6 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Clase 03\bin\Debug\Clase 03.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Clase 03\bin\Debug\Clase 03.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Clase 03\bin\Debug\Clase 03.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Clase 03\obj\Debug\Ejercicio 11.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Clase 03\obj\Debug\Clase 03.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Clase 03\obj\Debug\Clase 03.pdb
