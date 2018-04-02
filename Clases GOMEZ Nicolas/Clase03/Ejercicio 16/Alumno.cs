@@ -33,7 +33,7 @@ namespace Ejercicio_16
 
         public void Estudiar(byte notaUno, byte notaDos)
         {
-            if (notaUno >= 4 && notaDos >= 4)
+            if (notaUno >= 0 && notaDos >= 0)
             {
                 this.nota1 = notaUno;
                 this.nota2 = notaDos;
@@ -45,11 +45,11 @@ namespace Ejercicio_16
 
             StringBuilder mostrar = new StringBuilder();
 
-            mostrar.AppendFormat("Nombre {0}", this.nombre);
-            mostrar.AppendFormat("Apellido {0}", this.apellido);
-            mostrar.AppendFormat("Legajo {0}", this.legajo);
-            mostrar.AppendFormat("Nota uno {0}", this.nota1);
-            mostrar.AppendFormat("Nota dos {0}", this.nota2);
+            mostrar.AppendFormat("Nombre: {0}\n", this.nombre);
+            mostrar.AppendFormat("Apellido: {0}\n", this.apellido);
+            mostrar.AppendFormat("Legajo: {0}\n", this.legajo);
+            mostrar.AppendFormat("Nota uno: {0}\n", this.nota1);
+            mostrar.AppendFormat("Nota dos: {0}\n", this.nota2);
             if (this.notaFinal == -1)
             {
                 mostrar.AppendFormat("Alumno desaprobado");

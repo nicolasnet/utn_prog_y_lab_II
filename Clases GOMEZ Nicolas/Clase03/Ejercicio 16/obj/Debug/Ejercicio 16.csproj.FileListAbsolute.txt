@@ -4,3 +4,9 @@ D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Ejercicio 16\bin\Debug\Ejercicio 1
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Ejercicio 16\obj\Debug\Ejercicio 16.exe
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase 03\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase03\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase03\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase03\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase03\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase03\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase03\Ejercicio 16\obj\Debug\Ejercicio 16.csprojResolveAssemblyReference.cache

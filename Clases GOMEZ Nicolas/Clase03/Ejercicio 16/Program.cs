@@ -39,7 +39,7 @@ namespace Ejercicio_16
             alumno.CalcularFinal();
 
 
-            Console.WriteLine(alumno.Mostrar());
+           Console.WriteLine(alumno.Mostrar());
      
             //Console.WriteLine(alumno.apellido);
             
