@@ -4,3 +4,9 @@ D:\VisualStudio\GOMEZ Nicolas\Clase02\Clase02\bin\Debug\Clase02.exe
 D:\VisualStudio\GOMEZ Nicolas\Clase02\Clase02\bin\Debug\Clase02.pdb
 D:\VisualStudio\GOMEZ Nicolas\Clase02\Clase02\obj\Debug\Clase02.exe
 D:\VisualStudio\GOMEZ Nicolas\Clase02\Clase02\obj\Debug\Clase02.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\Clase02\bin\Debug\Clase02.exe.config
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\Clase02\bin\Debug\Clase02.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\Clase02\bin\Debug\Clase02.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\Clase02\obj\Debug\Ejercicio 09.csprojResolveAssemblyReference.cache
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\Clase02\obj\Debug\Clase02.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\Clase02\obj\Debug\Clase02.pdb

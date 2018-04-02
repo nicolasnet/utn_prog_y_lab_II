@@ -13,7 +13,7 @@ namespace EjercicioConversorBinario
             Console.Title = "Conversor Binario";
             int opcion = 0;
             int numero = 0;
-            string seguir = "s";
+            bool seguir = true;
 
             do
             {
@@ -27,7 +27,7 @@ namespace EjercicioConversorBinario
                     switch (opcion)
                     {
                         case 1:
-                            Conversor.BinarioEntero(Console.ReadLine());
+                            Console.WriteLine(Conversor.BinarioEntero(Console.ReadLine()));
                             break;
 
                         case 2:
@@ -35,14 +35,15 @@ namespace EjercicioConversorBinario
                             {
                                 Console.WriteLine(Conversor.EnteroBinario(numero));
                             }
+
                             break;
 
                         case 3:
-                            seguir = "n";
+                            seguir = false;
                             break;
                     }
                 }
-            } while (seguir == "s");
+            } while (seguir);
         }
     }
 }

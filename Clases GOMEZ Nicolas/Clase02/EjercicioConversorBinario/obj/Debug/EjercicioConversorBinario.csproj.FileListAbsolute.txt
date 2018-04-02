@@ -7,3 +7,9 @@ D:\VisualStudio\GOMEZ Nicolas\Clase02\EjercicioConversorBinario\obj\Debug\Ejerci
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\bin\Debug\EjercicioConversorBinario.exe.config
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\obj\Debug\EjercicioConversorBinario.exe
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\obj\Debug\EjercicioConversorBinario.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\bin\Debug\EjercicioConversorBinario.exe.config
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\obj\Debug\EjercicioConversorBinario.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\obj\Debug\EjercicioConversorBinario.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\bin\Debug\EjercicioConversorBinario.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\bin\Debug\EjercicioConversorBinario.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\Clase02\EjercicioConversorBinario\obj\Debug\EjercicioConversorBinario.csprojResolveAssemblyReference.cache
