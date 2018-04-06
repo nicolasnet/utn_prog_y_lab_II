@@ -45,5 +45,37 @@ namespace Ejercicio_19
         }
 
 
+        #region Sobrecarga Operadores
+
+        public static explicit operator int(Sumador s)
+        {
+            return s.cantidadSumas;
+        }
+
+
+        public static long operator +(Sumador s1, Sumador s2)
+        {
+            long respuesta = 0;
+
+            respuesta = s1.cantidadSumas + s2.cantidadSumas;
+
+            return respuesta;
+        }
+
+
+        public static bool operator |(Sumador s1, Sumador s2)
+        {
+            bool respuesta = false;
+
+            if(s1.cantidadSumas == s2.cantidadSumas)
+            {
+                respuesta = true;
+            }
+
+            return respuesta;
+        }
+
+        #endregion
+
     }
 }

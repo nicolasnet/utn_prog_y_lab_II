@@ -4,3 +4,9 @@ D:\VisualStudio\Clase04\Ejercicio 19\bin\Debug\Ejercicio 19.pdb
 D:\VisualStudio\Clase04\Ejercicio 19\obj\Debug\Ejercicio 19.csprojResolveAssemblyReference.cache
 D:\VisualStudio\Clase04\Ejercicio 19\obj\Debug\Ejercicio 19.exe
 D:\VisualStudio\Clase04\Ejercicio 19\obj\Debug\Ejercicio 19.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Ejercicio 19\bin\Debug\Ejercicio 19.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Ejercicio 19\obj\Debug\Ejercicio 19.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Ejercicio 19\obj\Debug\Ejercicio 19.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Ejercicio 19\obj\Debug\Ejercicio 19.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Ejercicio 19\bin\Debug\Ejercicio 19.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Ejercicio 19\bin\Debug\Ejercicio 19.pdb

@@ -4,3 +4,9 @@ D:\VisualStudio\Clase04\Clase04\bin\Debug\Clase04.pdb
 D:\VisualStudio\Clase04\Clase04\obj\Debug\Ejercicio 17.csprojResolveAssemblyReference.cache
 D:\VisualStudio\Clase04\Clase04\obj\Debug\Clase04.exe
 D:\VisualStudio\Clase04\Clase04\obj\Debug\Clase04.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Clase04\bin\Debug\Clase04.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Clase04\bin\Debug\Clase04.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Clase04\bin\Debug\Clase04.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Clase04\obj\Debug\Ejercicio 17.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Clase04\obj\Debug\Clase04.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase04\Clase04\obj\Debug\Clase04.pdb
