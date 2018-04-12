@@ -1,0 +1,11 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\obj\Debug\Clase06.Conversor.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\bin\Debug\Clase06.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\bin\Debug\Clase06.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

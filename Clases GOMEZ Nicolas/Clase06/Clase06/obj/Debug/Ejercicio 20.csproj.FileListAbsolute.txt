@@ -1,0 +1,8 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\obj\Debug\Ejercicio 20.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\bin\Debug\Clase06.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\bin\Debug\Clase06.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\bin\Debug\Clase06.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\obj\Debug\Clase06.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\obj\Debug\Clase06.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\obj\Debug\Clase06.Conversor.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase06\Clase06\obj\Debug\Ejercicio 20.csproj.GenerateResource.Cache
