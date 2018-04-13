@@ -56,38 +56,49 @@
             // 
             // btnConverPesos
             // 
+            this.btnConverPesos.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnConverPesos.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnConverPesos.ForeColor = System.Drawing.SystemColors.Highlight;
             this.btnConverPesos.Location = new System.Drawing.Point(233, 140);
             this.btnConverPesos.Name = "btnConverPesos";
             this.btnConverPesos.Size = new System.Drawing.Size(95, 20);
-            this.btnConverPesos.TabIndex = 0;
+            this.btnConverPesos.TabIndex = 5;
             this.btnConverPesos.Text = "->";
-            this.btnConverPesos.UseVisualStyleBackColor = true;
+            this.btnConverPesos.UseVisualStyleBackColor = false;
+            this.btnConverPesos.Click += new System.EventHandler(this.btnConverPesos_Click);
             // 
             // btnConverEuro
             // 
+            this.btnConverEuro.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnConverEuro.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnConverEuro.ForeColor = System.Drawing.SystemColors.Highlight;
             this.btnConverEuro.Location = new System.Drawing.Point(233, 65);
             this.btnConverEuro.Name = "btnConverEuro";
             this.btnConverEuro.Size = new System.Drawing.Size(95, 20);
-            this.btnConverEuro.TabIndex = 1;
+            this.btnConverEuro.TabIndex = 3;
             this.btnConverEuro.Text = "->";
-            this.btnConverEuro.UseVisualStyleBackColor = true;
+            this.btnConverEuro.UseVisualStyleBackColor = false;
             this.btnConverEuro.Click += new System.EventHandler(this.btnConverEuro_Click);
             // 
             // btnConverDolar
             // 
+            this.btnConverDolar.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.btnConverDolar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnConverDolar.ForeColor = System.Drawing.SystemColors.Highlight;
             this.btnConverDolar.Location = new System.Drawing.Point(233, 104);
             this.btnConverDolar.Name = "btnConverDolar";
             this.btnConverDolar.Size = new System.Drawing.Size(95, 20);
-            this.btnConverDolar.TabIndex = 2;
+            this.btnConverDolar.TabIndex = 4;
             this.btnConverDolar.Text = "->";
-            this.btnConverDolar.UseVisualStyleBackColor = true;
+            this.btnConverDolar.UseVisualStyleBackColor = false;
+            this.btnConverDolar.Click += new System.EventHandler(this.btnConverDolar_Click);
             // 
             // textEuro
             // 
             this.textEuro.Location = new System.Drawing.Point(110, 65);
             this.textEuro.Name = "textEuro";
             this.textEuro.Size = new System.Drawing.Size(117, 20);
-            this.textEuro.TabIndex = 4;
+            this.textEuro.TabIndex = 0;
             this.textEuro.TextChanged += new System.EventHandler(this.textEuro_TextChanged);
             // 
             // textPesos
@@ -95,14 +106,14 @@
             this.textPesos.Location = new System.Drawing.Point(110, 140);
             this.textPesos.Name = "textPesos";
             this.textPesos.Size = new System.Drawing.Size(117, 20);
-            this.textPesos.TabIndex = 5;
+            this.textPesos.TabIndex = 2;
             // 
             // textDolar
             // 
             this.textDolar.Location = new System.Drawing.Point(110, 104);
             this.textDolar.Name = "textDolar";
             this.textDolar.Size = new System.Drawing.Size(117, 20);
-            this.textDolar.TabIndex = 6;
+            this.textDolar.TabIndex = 1;
             // 
             // label1
             // 

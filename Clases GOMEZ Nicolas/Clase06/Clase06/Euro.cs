@@ -9,16 +9,18 @@ namespace Clase06
     public class Euro
     {
         private double cantidad;
-        private float cotizRespectoDolar = (float) 1.3642;
+        private float cotizRespectoDolar;
 
         #region Constructores
 
         private Euro()
-        { 
+        {
+            this.cotizRespectoDolar = (float)1.3642;
         }
 
 
         public Euro(double cantidad)
+            : this()
         {
             this.cantidad = cantidad;
         }

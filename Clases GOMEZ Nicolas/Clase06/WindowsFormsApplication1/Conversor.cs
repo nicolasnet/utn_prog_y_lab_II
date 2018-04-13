@@ -18,17 +18,9 @@ namespace Clase06
             InitializeComponent();
         }
 
+       
+
         
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void textEuro_TextChanged(object sender, EventArgs e)
         {
@@ -40,13 +32,63 @@ namespace Clase06
             double numero = 0;
             Euro monedaEuro = new Euro(0);
             Dolar monedaDolar = new Dolar(0);
-            //StringBuilder texto = new StringBuilder();
+            Pesos monedaPesos = new Pesos(0);            
 
             if(double.TryParse(textEuro.Text, out numero))
             {                
                 txtEuroAEuro.Text = numero.ToString();
 
+                monedaEuro = numero;
+                
+                monedaDolar = (Dolar)monedaEuro;
+                txtEuroADolar.Text = monedaDolar.GetCantidad().ToString();
+
+                monedaPesos = (Pesos)monedaEuro;
+                txtEuroAPesos.Text = monedaPesos.GetCantidad().ToString();
             }            
+        }
+
+        private void btnConverDolar_Click(object sender, EventArgs e)
+        {
+            double numero = 0;
+            Euro monedaEuro = new Euro(0);
+            Dolar monedaDolar = new Dolar(0);
+            Pesos monedaPesos = new Pesos(0);
+
+            if (double.TryParse(textDolar.Text, out numero))
+            {
+                monedaDolar = numero;
+
+                monedaEuro = (Euro)monedaDolar;
+                txtDolarAEuro.Text = monedaEuro.GetCantidad().ToString();
+
+                txtDolarADolar.Text = numero.ToString();
+
+                monedaPesos = (Pesos)monedaDolar;
+                txtDolarAPesos.Text = monedaPesos.GetCantidad().ToString();
+            }
+        }
+
+        private void btnConverPesos_Click(object sender, EventArgs e)
+        {
+            double numero = 0;
+            Euro monedaEuro = new Euro(0);
+            Dolar monedaDolar = new Dolar(0);
+            Pesos monedaPesos = new Pesos(0);
+
+            if (double.TryParse(textDolar.Text, out numero))
+            {
+                monedaPesos = numero;
+
+                monedaEuro = (Euro)monedaPesos;
+                txtPesosAEuro.Text = monedaEuro.GetCantidad().ToString();
+
+                monedaDolar = (Dolar)monedaPesos;
+                txtPesosADolar.Text = monedaDolar.GetCantidad().ToString();
+
+                txtPesosAPesos.Text = numero.ToString();
+            }
+
         }
 
     }

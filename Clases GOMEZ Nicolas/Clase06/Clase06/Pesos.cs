@@ -9,16 +9,17 @@ namespace Clase06
     public class Pesos
     {
         private double cantidad;
-        private float cotizRespectoDolar = (float) 17.55;
+        private float cotizRespectoDolar;
 
         #region Constructores
 
         private Pesos()
-        { 
+        {
+            this.cotizRespectoDolar = (float)17.55;
         }
 
 
-        public Pesos(double cantidad)
+        public Pesos(double cantidad) :this()
         {
             this.cantidad = cantidad;
         }
@@ -74,7 +75,7 @@ namespace Clase06
         {
             Dolar cambio = new Dolar(0);
 
-            cambio = d.cantidad / cambio.GetCotizacion();
+            cambio = d.cantidad / d.GetCotizacion();
 
             return cambio;
         }

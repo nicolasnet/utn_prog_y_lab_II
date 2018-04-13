@@ -9,16 +9,18 @@ namespace Clase06
     public class Dolar
     {
         private double cantidad;
-        private float cotizRespectoDolar = 1;
+        private float cotizRespectoDolar;
 
         #region Constructores
 
         private Dolar()
-        { 
+        {
+            this.cotizRespectoDolar = 1;
         }
 
 
         public Dolar(double cantidad)
+            : this()
         {
             this.cantidad = cantidad;
         }
@@ -78,6 +80,88 @@ namespace Clase06
 
             return cambio;
         }
+
+
+
+        public static Dolar operator +(Dolar d, Euro e)
+        {
+            Dolar monedaDolar = new Dolar(0);
+
+            monedaDolar = d.GetCantidad() + e.GetCantidad() * e.GetCotizacion();
+
+            return monedaDolar;
+        }
+
+
+        public static Dolar operator +(Dolar d, Pesos p)
+        {
+            Dolar monedaDolar = new Dolar(0);
+
+            monedaDolar = d.GetCantidad() + p.GetCantidad() / p.GetCotizacion();
+
+            return monedaDolar;
+        }
+
+                
+        public static Dolar operator -(Dolar d, Euro e)
+        {
+            Dolar monedaDolar = new Dolar(0);
+
+            monedaDolar = d.GetCantidad() - e.GetCantidad() * e.GetCotizacion();
+
+            return monedaDolar;
+        }
+
+
+        public static Dolar operator -(Dolar d, Pesos p)
+        {
+            Dolar monedaDolar = new Dolar(0);
+
+            monedaDolar = d.GetCantidad() - p.GetCantidad() / p.GetCotizacion();
+
+            return monedaDolar;
+        }
+
+
+        public static bool operator ==(Dolar d, Euro e)
+        {
+            bool respuesta = false;
+
+            if (d.GetCantidad() == e.GetCantidad() / e.GetCotizacion())
+            {
+                respuesta = true;
+            }
+
+            return respuesta;
+        }
+
+
+        public static bool operator ==(Dolar d, Pesos p)
+        {
+            bool respuesta = false;
+
+            if (d.GetCantidad() == p.GetCantidad() * p.GetCotizacion())
+            {
+                respuesta = true;
+            }
+
+            return respuesta;
+        }
+
+
+        public static bool operator ==(Dolar d2, Dolar d2)
+        {
+            bool respuesta = false;
+
+            if (d2.GetCantidad() == d2.GetCantidad())
+            {
+                respuesta = true;
+            }
+
+            return respuesta;
+        }
+
+
 
         #endregion
     }
