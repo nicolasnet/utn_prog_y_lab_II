@@ -1,0 +1,6 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase07\Clase07\bin\Debug\Clase07.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase07\Clase07\bin\Debug\Clase07.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase07\Clase07\bin\Debug\Clase07.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase07\Clase07\obj\Debug\Clase07.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase07\Clase07\obj\Debug\Clase07.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase07\Clase07\obj\Debug\Ejercicio 26.csprojResolveAssemblyReference.cache
