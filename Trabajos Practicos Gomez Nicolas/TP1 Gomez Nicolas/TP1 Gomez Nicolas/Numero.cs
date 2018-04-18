@@ -6,9 +6,27 @@ using System.Threading.Tasks;
 
 namespace TP1_Gomez_Nicolas
 {
-    class Numero
+    public class Numero
     {
         private double numero;
+
+        #region Propiedades
+
+        public double nro
+        {
+            get
+            {
+                return this.numero;
+            }
+            set
+            {
+                this.numero = ValidarNumero(value.ToString());
+            }
+        }
+
+        #endregion
+
+
 
 
         #region Constructores
@@ -26,7 +44,7 @@ namespace TP1_Gomez_Nicolas
 
 
         public Numero(string strNumero)
-        {
+        {            
             SetNumero(strNumero);
         }
 
@@ -50,7 +68,7 @@ namespace TP1_Gomez_Nicolas
             return aux;
         }
 
-
+        
         /// <summary>
         /// Setea el numero brindado en el atributo de la clase Numero.
         /// </summary>
@@ -69,39 +87,49 @@ namespace TP1_Gomez_Nicolas
         {
             return this.numero;
         }
-
+        
 
         /// <summary>
         /// Metodo que convierte un numero binario a un decimal entero.
         /// </summary>
         /// <param name="binario"></param> numero binario ingresado en tipo String.
-        /// <returns></returns> retorna el numero entero convertido.
-        public static int BinarioEntero(string binario)
+        /// <returns></returns> Retorna un string con el numero si logro convertirlo o "Valor Invalido" si no pudo.
+        public static string BinarioDecimal(string binario)
         {
 
             int i;
             int entero = 0;
+            string respuesta = "";
 
             for (i = 0; i < binario.Length; i++)
-            {             
-                entero = entero + (int.Parse(binario[i].ToString()) * (int)Math.Pow(2, binario.Length - (i + 1)));
+            {   
+                if(binario[i].ToString() == "1" || binario[i].ToString() == "0")
+                {
+                    entero = entero + (int.Parse(binario[i].ToString()) * (int)Math.Pow(2, binario.Length - (i + 1)));
+                    respuesta = entero.ToString();
+                }
+                else
+                {
+                    respuesta = "Valor Invalido";
+                    break;
+                }                
             }
-            return entero;
+            return respuesta;
         }
 
-
+        
         /// <summary>
-        /// Metodo por el cual se convierte un decimal entero a numero binario
+        /// Metodo por el cual se convierte un numero decimal a uno binario.
         /// </summary>
         /// <param name="numero"></param> valor double brindado para convertir.
-        /// <returns></returns> retorna el numero binario convertido.
-        public static string EnteroBinario(double numero)
+        /// <returns></returns> Retorna el numero binario convertido.
+        public static string DecimalBinario(double numero)
         {
             string resultado = "";
-
+                        
             if (numero != 0 && numero != 1)
             {
-                resultado = resultado + Numero.EnteroBinario(numero / 2);
+                resultado = resultado + Numero.DecimalBinario(numero / 2);
                 resultado = resultado + (numero % 2);
             }
             else
@@ -110,6 +138,36 @@ namespace TP1_Gomez_Nicolas
             }
 
             return resultado;            
+        }
+        
+
+        /// <summary>
+        /// Metodo por el cual se convierte un numero decimal a uno binario.
+        /// </summary>
+        /// <param name="numeroStr"></param> valor string brindado para convertir.
+        /// <returns></returns> Retorna un string con el numero si logro convertirlo o "Valor Invalido" si no pudo.
+        public static string DecimalBinario(string numeroStr)
+        {
+            double numero;
+            string resultado = "";
+
+            if (double.TryParse(numeroStr, out numero))
+            {
+                if (numero != 0 && numero != 1)
+                {
+                    resultado = resultado + Numero.DecimalBinario(((int)numero / 2).ToString());
+                    resultado = resultado + (numero % 2);
+                }
+                else
+                {
+                    resultado = resultado + numero;
+                }
+            }
+            else
+            {
+                resultado = "Valor invalido LPM";
+            }
+            return resultado;
         }
 
         #endregion
