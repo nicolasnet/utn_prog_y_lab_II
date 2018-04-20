@@ -1,0 +1,8 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\bin\Debug\Clase09.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\bin\Debug\Clase09.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\bin\Debug\Clase09.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\bin\Debug\ClassLibrary1.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\obj\Debug\Ejercicio 31.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\obj\Debug\Clase09.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase09\Clase09\obj\Debug\Clase09.pdb
