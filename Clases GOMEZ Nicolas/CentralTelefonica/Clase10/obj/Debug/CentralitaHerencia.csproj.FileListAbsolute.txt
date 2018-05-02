@@ -1,0 +1,6 @@
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\Clase10\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\Clase10\bin\Debug\Clase10.exe.config
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\Clase10\bin\Debug\Clase10.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\Clase10\bin\Debug\Clase10.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\Clase10\obj\Debug\Clase10.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\Clase10\obj\Debug\Clase10.pdb

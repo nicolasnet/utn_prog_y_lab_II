@@ -1,0 +1,6 @@
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.pdb
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+M:\Nicolas\Descargas\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
