@@ -128,8 +128,17 @@ namespace Clase10
 
             foreach(Llamada llamada in listaDeLlamadas)
             {
-                llamadasInfo.AppendFormat(llamada.Mostrar());
-                llamadasInfo.AppendFormat("\n");
+                if (llamada is Local)
+                {
+                    llamadasInfo.AppendFormat(((Local)llamada).Mostrar());
+                    llamadasInfo.AppendFormat("\n");
+                }
+                if (llamada is Provincial) 
+                {
+                    llamadasInfo.AppendFormat(((Provincial)llamada).Mostrar());
+                    llamadasInfo.AppendFormat("\n");
+                }
+
             }
             llamadasInfo.AppendFormat("------------------------------------------------------\n");
 

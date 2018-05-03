@@ -75,7 +75,7 @@ namespace Clase10
 
         public override string ToString()
         {
-            return base.Mostrar(); //aca no va el mostrar de LOCAL???
+            return this.Mostrar();
         }
 
         #endregion

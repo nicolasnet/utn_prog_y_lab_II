@@ -1,0 +1,13 @@
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.exe
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.pdb
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources

@@ -57,7 +57,7 @@ namespace Clase10
         }
 
 
-        public string Mostrar()
+        public new string Mostrar()
         {
             StringBuilder datosLlamada = new StringBuilder();
 

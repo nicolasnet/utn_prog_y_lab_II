@@ -91,7 +91,7 @@ namespace Clase10
 
         public override string ToString()
         {
-            return base.Mostrar(); //no va el mostrar de PROVINCIAL????
+            return this.Mostrar();
         }
 
         #endregion
