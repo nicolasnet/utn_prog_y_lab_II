@@ -1,0 +1,6 @@
+D:\Gomez Nicolas\GOMEZ.NICOLAS\GOMEZ.NICOLAS\bin\Debug\GOMEZ.NICOLAS.exe.config
+D:\Gomez Nicolas\GOMEZ.NICOLAS\GOMEZ.NICOLAS\bin\Debug\GOMEZ.NICOLAS.exe
+D:\Gomez Nicolas\GOMEZ.NICOLAS\GOMEZ.NICOLAS\bin\Debug\GOMEZ.NICOLAS.pdb
+D:\Gomez Nicolas\GOMEZ.NICOLAS\GOMEZ.NICOLAS\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\Gomez Nicolas\GOMEZ.NICOLAS\GOMEZ.NICOLAS\obj\Debug\GOMEZ.NICOLAS.exe
+D:\Gomez Nicolas\GOMEZ.NICOLAS\GOMEZ.NICOLAS\obj\Debug\GOMEZ.NICOLAS.pdb

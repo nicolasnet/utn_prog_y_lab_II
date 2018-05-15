@@ -1,0 +1,9 @@
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\bin\Debug\VistaForm.exe
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\bin\Debug\VistaForm.pdb
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\obj\Debug\VistaForm.exe
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\obj\Debug\VistaForm.pdb
+D:\Gomez Nicolas\GOMEZ.NICOLAS\VistaForm\obj\Debug\VistaForm.Form1.resources
