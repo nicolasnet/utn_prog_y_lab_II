@@ -1,0 +1,6 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Ejercicio42\Clase16\bin\Debug\Clase16.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase16\Clase16\bin\Debug\Clase16.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase16\Clase16\bin\Debug\Clase16.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase16\Clase16\bin\Debug\Clase16.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase16\Clase16\obj\Debug\Clase16.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase16\Clase16\obj\Debug\Clase16.pdb
