@@ -4,3 +4,11 @@ D:\VisualStudio\Clases GOMEZ Nicolas\Clase18\Clase18\bin\Debug\Clase18.pdb
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase18\Clase18\obj\Debug\Clase18.csprojResolveAssemblyReference.cache
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase18\Clase18\obj\Debug\Clase18.exe
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase18\Clase18\obj\Debug\Clase18.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\bin\Debug\Clase18.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\obj\Debug\Clase18.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\obj\Debug\Clase18.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\bin\Debug\Clase18.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\bin\Debug\Clase18.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\obj\Debug\Clase18.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase17\Clase18\bin\Debug\ClassLibrary1.pdb

@@ -8,8 +8,21 @@ namespace ClassLibrary1
 {
     public abstract class Equipo
     {
-        private string nombre;
+        public string nombre;
         private DateTime fechaCreacion;
+
+
+        public Equipo()
+        {
+        }
+
+
+        public Equipo(string nombre, DateTime fechaCreacion) 
+            : this ()
+        {
+            this.nombre = nombre;
+            this.fechaCreacion = fechaCreacion;
+        }
 
 
         public static bool operator ==(Equipo a, Equipo b)
@@ -35,7 +48,7 @@ namespace ClassLibrary1
         {
             StringBuilder ficha = new StringBuilder();
 
-            ficha.AppendFormat("{0} fundado el: {1}", this.nombre, this.fechaCreacion);
+            ficha.AppendFormat("*{0}. Fundado el: {1}", this.nombre, this.fechaCreacion);
 
             return ficha.ToString();
         }
