@@ -1,0 +1,6 @@
+D:\VisualStudio\Clase18.2\Clase18.2\obj\Debug\Ejercicio 50.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clase18.2\Clase18.2\bin\Debug\Clase18.2.exe.config
+D:\VisualStudio\Clase18.2\Clase18.2\bin\Debug\Clase18.2.exe
+D:\VisualStudio\Clase18.2\Clase18.2\bin\Debug\Clase18.2.pdb
+D:\VisualStudio\Clase18.2\Clase18.2\obj\Debug\Clase18.2.exe
+D:\VisualStudio\Clase18.2\Clase18.2\obj\Debug\Clase18.2.pdb
