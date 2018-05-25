@@ -1,0 +1,8 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\bin\Debug\Ejercicio52.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\bin\Debug\Ejercicio52.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\bin\Debug\Ejercicio52.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\obj\Debug\Ejercicio52.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\obj\Debug\Ejercicio52.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\obj\Debug\Ejercicio52.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\bin\Debug\ClassLibrary-Ejercicio52.dll
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase19\Ejercicio52\bin\Debug\ClassLibrary-Ejercicio52.pdb
