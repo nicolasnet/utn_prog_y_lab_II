@@ -7,3 +7,12 @@ D:\VisualStudio\Clases GOMEZ Nicolas\Clase20\Ejercicio56\bin\Debug\Ejercicio56.e
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase20\Ejercicio56\bin\Debug\Ejercicio56.pdb
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.exe
 D:\VisualStudio\Clases GOMEZ Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.pdb
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\bin\Debug\Ejercicio56.exe.config
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.exe
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.pdb
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\bin\Debug\Ejercicio56.exe
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\bin\Debug\Ejercicio56.pdb
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.Form1.resources
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.Properties.Resources.resources
+D:\VisualStudio\Gomez Nicolas\Clase20\Ejercicio56\obj\Debug\Ejercicio56.csproj.GenerateResource.Cache

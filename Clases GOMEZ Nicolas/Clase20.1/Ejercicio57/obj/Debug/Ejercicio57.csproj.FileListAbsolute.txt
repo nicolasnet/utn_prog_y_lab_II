@@ -1,0 +1,7 @@
+D:\VisualStudio\Gomez Nicolas\Ejercicio57\Ejercicio57\bin\Debug\Ejercicio57.exe.config
+D:\VisualStudio\Gomez Nicolas\Clase20.1\Ejercicio57\bin\Debug\Ejercicio57.exe.config
+D:\VisualStudio\Gomez Nicolas\Clase20.1\Ejercicio57\obj\Debug\Ejercicio57.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez Nicolas\Clase20.1\Ejercicio57\bin\Debug\Ejercicio57.exe
+D:\VisualStudio\Gomez Nicolas\Clase20.1\Ejercicio57\bin\Debug\Ejercicio57.pdb
+D:\VisualStudio\Gomez Nicolas\Clase20.1\Ejercicio57\obj\Debug\Ejercicio57.exe
+D:\VisualStudio\Gomez Nicolas\Clase20.1\Ejercicio57\obj\Debug\Ejercicio57.pdb
