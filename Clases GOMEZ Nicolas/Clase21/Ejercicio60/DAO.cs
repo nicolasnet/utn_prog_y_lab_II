@@ -23,7 +23,7 @@ namespace Ejercicio60
         static DAO()
         {
             // CREO UN OBJETO SQLCONECTION
-            DAO.conexion = new SqlConnection("Data Source=[LAB3PC05\SQLEXPRESS];Initial Catalog=[AdventureWorks2012];Integrated Security=True");
+            DAO.conexion = new SqlConnection("Data Source=LAB3PC05\\SQLEXPRESS;Initial Catalog=AdventureWorks2012;Integrated Security=True");
             
             // CREO UN OBJETO SQLCOMMAND
             DAO.comando = new SqlCommand();
@@ -33,28 +33,27 @@ namespace Ejercicio60
             
             // ESTABLEZCO LA CONEXION
             DAO.comando.Connection = DAO.conexion;
+
+            // ABRO LA CONEXION
+            DAO.conexion.Open();
         }
 
         #endregion
 
 
-        #region Getters
-        public static Object ObtieneObjeto(string comandoTexto)
-        {
-            bool TodoOk = false;
-            Object obj = null;
+        #region Leer
 
+        public static SqlDataReader ObtieneObjeto(string comandoTexto)
+        {            
             try
             {
                 // LE PASO LA INSTRUCCION SQL
                 DAO.comando.CommandText = comandoTexto;
 
-                // ABRO LA CONEXION A LA BD
-                DAO.conexion.Open();
-
                 // EJECUTO EL COMMAND                 
                 SqlDataReader oDr = DAO.comando.ExecuteReader();
 
+                /*
                 // MIENTRAS TENGA REGISTROS...
                 if (oDr.Read())
                 {
@@ -64,22 +63,69 @@ namespace Ejercicio60
 
                 //CIERRO EL DATAREADER
                 oDr.Close();
+                */               
 
-                TodoOk = true;
+                return oDr;
             }
 
             catch (Exception ex)
             {
                 throw ex;
-            }
-            finally
-            {
-                if (TodoOk)
-                    DAO.conexion.Close();
-            }
-            return obj;
+            }                      
         }
+
         #endregion
 
+
+
+        #region Insertar
+
+        public static bool InsertaObjeto(string comandoInsert)
+        {
+            return EjecutarNonQuery(comandoInsert);
+        }
+
+        #endregion
+
+
+        #region Modificar
+
+        public static bool ModificarObjeto(string comandoUpdate)
+        {
+            return EjecutarNonQuery(comandoUpdate);
+        }
+
+        #endregion
+
+
+        #region Eliminar
+
+        public static bool EliminarObjeto(string comandoDelete)
+        {
+            return EjecutarNonQuery(comandoDelete);
+        }
+
+        #endregion
+
+
+
+
+        private static bool EjecutarNonQuery(string sql)
+        { 
+            try
+            {
+                // LE PASO LA INSTRUCCION SQL
+                DAO.comando.CommandText = sql;
+                
+                // EJECUTO EL COMMAND
+                DAO.comando.ExecuteNonQuery();
+
+             return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }           
+        }
     }
 }

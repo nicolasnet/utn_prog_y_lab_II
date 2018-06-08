@@ -10,7 +10,9 @@ namespace Ejercicio60
     {
         private int id;
         private string nombre;
-        private string prodNumber;
+        private float costRate;
+        private float availity;
+        private DateTime modifiedDate;
 
         public int Id
         {
@@ -36,15 +38,15 @@ namespace Ejercicio60
             }
         }
 
-        public string ProdNumber
+        public float CostRate
         {
             get
             {
-                return this.prodNumber;
+                return this.costRate;
             }
             set
             {
-                this.prodNumber = value;
+                this.costRate = value;
             }
         }
 
@@ -53,12 +55,11 @@ namespace Ejercicio60
         public Producto() { }
 
 
-        public Producto(int id, string nombre, string prodNum)
+        public Producto(string nombre, float costRate)
             : this()
-        {
-            this.Id = id;
+        {            
             this.Nombre = nombre;
-            this.ProdNumber = prodNum;
+            this.costRate = costRate;
         }
 
 

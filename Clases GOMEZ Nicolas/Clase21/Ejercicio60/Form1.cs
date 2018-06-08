@@ -16,5 +16,21 @@ namespace Ejercicio60
         {
             InitializeComponent();
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            Producto prod = new Producto("Jorge", 27f);
+
+            ProductoDAO.Guardar(prod);
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            Producto prod = null;
+
+            prod = ProductoDAO.Leer();
+
+            richTextBox1.Text = string.Format("Name: {0}\nCostRate: {1}", prod.Nombre, prod.CostRate);
+        }
     }
 }
