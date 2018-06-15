@@ -1,0 +1,6 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio64\bin\Debug\Ejercicio64.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio64\bin\Debug\Ejercicio64.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio64\bin\Debug\Ejercicio64.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio64\obj\Debug\Ejercicio64.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio64\obj\Debug\Ejercicio64.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio64\obj\Debug\Ejercicio64.pdb

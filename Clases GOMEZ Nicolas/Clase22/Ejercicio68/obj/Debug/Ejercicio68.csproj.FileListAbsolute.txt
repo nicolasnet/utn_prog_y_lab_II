@@ -1,0 +1,8 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\bin\Debug\Ejercicio68.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\bin\Debug\Ejercicio68.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\bin\Debug\Ejercicio68.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\obj\Debug\Ejercicio68.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\obj\Debug\Ejercicio68.Properties.Resources.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\obj\Debug\Ejercicio68.csproj.GenerateResource.Cache
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\obj\Debug\Ejercicio68.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\Clase22\Ejercicio68\obj\Debug\Ejercicio68.pdb
