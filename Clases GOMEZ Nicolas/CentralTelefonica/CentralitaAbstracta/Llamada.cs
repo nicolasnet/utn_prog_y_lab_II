@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase10
+namespace CentralitaAbstracta
 {
     public abstract class Llamada
     {

@@ -1,0 +1,14 @@
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\bin\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

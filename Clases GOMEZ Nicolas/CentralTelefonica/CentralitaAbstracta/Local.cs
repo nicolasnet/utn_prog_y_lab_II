@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase10
+namespace CentralitaAbstracta
 {
-    public class Local : Llamada
+    public class Local : Llamada, IGuardar<Local>
     {
         #region Atributos
 
@@ -88,5 +88,29 @@ namespace Clase10
 
         #endregion
 
+
+        // Interface
+
+        public string RutaDeArchivo
+        {
+            get
+            {
+                throw new NotImplementedException();
+            }
+            set
+            {
+                throw new NotImplementedException();
+            }
+        }
+
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Local Leer()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

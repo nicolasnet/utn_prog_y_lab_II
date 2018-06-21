@@ -10,3 +10,21 @@ C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralT
 C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
 C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache
+G:\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+G:\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+G:\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+M:\Nicolas\Descargas\CentralTelefonica\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+M:\Nicolas\Descargas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+M:\Nicolas\Descargas\CentralTelefonica\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb

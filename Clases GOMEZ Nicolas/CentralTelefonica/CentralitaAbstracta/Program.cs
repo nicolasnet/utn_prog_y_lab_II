@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase10
+namespace CentralitaAbstracta
 {
     class Program
     {
@@ -21,6 +21,16 @@ namespace Clase10
             // La centralita mostrará por pantalla todas las llamadas según las vaya registrando.
             c.Llamadas.Add(l1);
             Console.WriteLine(c.ToString());
+
+            try
+            {
+                c = c + l1;
+            }
+            catch (CentralitaAbstracta.CentralitaException e)
+            {
+                Console.WriteLine(e.Message);
+                Console.WriteLine("");
+            }
             c.Llamadas.Add(l2);
             Console.WriteLine(c.ToString());
             c.Llamadas.Add(l3);

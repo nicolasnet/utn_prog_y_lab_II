@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase10
+namespace CentralitaAbstracta
 {
-    public class Centralita
+    public class Centralita : IGuardar<string>
     {
         #region Atributos
 
@@ -45,12 +45,28 @@ namespace Clase10
             }
         }
 
-
+        /// <summary>
+        /// Devuelve la lista de llamadas.
+        /// </summary>
         public List<Llamada> Llamadas
         {
             get
             {
                 return this.listaDeLlamadas;
+            }
+        }
+
+
+        // Propiedades IGuardar
+        public string RutaDeArchivo
+        {
+            get
+            {
+                throw new NotImplementedException();
+            }
+            set
+            {
+                throw new NotImplementedException();
             }
         }
 
@@ -60,7 +76,7 @@ namespace Clase10
 
         #region Constructores
 
-        public Centralita()
+        private Centralita()
         {
             listaDeLlamadas = new List<Llamada>();
         }
@@ -77,7 +93,23 @@ namespace Clase10
 
 
         #region Metodos
-                 
+        
+        //Metodos IGuardar
+        public bool Guardar()
+        {
+            string mostrar = this.Mostrar();
+
+            return true;
+        }
+
+        public string Leer()
+        {
+            throw new NotImplementedException();
+        }
+        
+        
+ 
+
         private float CalcularGanancia(Llamada.TipoLlamada tipo)
         {
             float resultado = 0;
@@ -194,10 +226,14 @@ namespace Clase10
             {
                 c.AgregarLlamada(nvaLlamada);
             }
+            else
+            {
+                throw new CentralitaException("No se pudo agregar, esta repetido", "Clase Centralita", "Sobrecarga +");
+            }
             return c;
         }
 
         #endregion
-
+                
     }
 }
