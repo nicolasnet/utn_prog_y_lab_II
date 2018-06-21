@@ -11,3 +11,29 @@ C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralT
 C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.pdb
 C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
 C:\Users\alumno\Downloads\utn_prog_y_lab_II-master\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Clases GOMEZ Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.exe
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\bin\Debug\CentralitaAbstracta.pdb
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Gomez Nicolas\CentralTelefonica\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

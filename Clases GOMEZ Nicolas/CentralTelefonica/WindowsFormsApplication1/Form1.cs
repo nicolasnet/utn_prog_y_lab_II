@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Clase10;
+using CentralitaAbstracta;
 
 namespace WindowsFormsApplication1
 {
@@ -33,9 +33,7 @@ namespace WindowsFormsApplication1
             Form3 form = new Form3();
 
             form.TipoLlamada = Llamada.TipoLlamada.Todas;
-
-            form.
-
+            
             form.ShowDialog();
             
         }
