@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gomez.Nicolas.2C", "Gomez.Nicolas.2C\Gomez.Nicolas.2C.csproj", "{7525D21F-B283-4572-91B8-B38FEBB59C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{1EA3FD56-60E0-45A6-A07E-223BA798FA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{C8F5D656-E2C2-442F-8732-B6AB960D36A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7525D21F-B283-4572-91B8-B38FEBB59C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7525D21F-B283-4572-91B8-B38FEBB59C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7525D21F-B283-4572-91B8-B38FEBB59C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7525D21F-B283-4572-91B8-B38FEBB59C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA3FD56-60E0-45A6-A07E-223BA798FA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA3FD56-60E0-45A6-A07E-223BA798FA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA3FD56-60E0-45A6-A07E-223BA798FA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA3FD56-60E0-45A6-A07E-223BA798FA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F5D656-E2C2-442F-8732-B6AB960D36A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F5D656-E2C2-442F-8732-B6AB960D36A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F5D656-E2C2-442F-8732-B6AB960D36A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F5D656-E2C2-442F-8732-B6AB960D36A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

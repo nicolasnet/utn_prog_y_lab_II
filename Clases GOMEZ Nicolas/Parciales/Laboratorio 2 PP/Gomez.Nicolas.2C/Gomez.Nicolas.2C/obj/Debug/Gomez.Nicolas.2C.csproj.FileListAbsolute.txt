@@ -1,0 +1,13 @@
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Gomez.Nicolas.2C.exe.config
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Gomez.Nicolas.2C.exe
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Gomez.Nicolas.2C.pdb
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\obj\Debug\Gomez.Nicolas._2C.Form1.resources
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\obj\Debug\Gomez.Nicolas._2C.Properties.Resources.resources
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\obj\Debug\Gomez.Nicolas.2C.csproj.GenerateResource.Cache
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\obj\Debug\Gomez.Nicolas.2C.exe
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\obj\Debug\Gomez.Nicolas.2C.pdb
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\obj\Debug\Gomez.Nicolas.2C.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Entidades.dll
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Interfaces.dll
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Entidades.pdb
+D:\VisualStudio\Gomez.Nicolas.2C\Gomez.Nicolas.2C\bin\Debug\Interfaces.pdb

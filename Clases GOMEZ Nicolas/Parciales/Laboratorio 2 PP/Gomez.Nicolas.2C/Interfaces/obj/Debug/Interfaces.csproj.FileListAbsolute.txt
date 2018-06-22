@@ -1,0 +1,5 @@
+D:\VisualStudio\Gomez.Nicolas.2C\Interfaces\bin\Debug\Interfaces.dll
+D:\VisualStudio\Gomez.Nicolas.2C\Interfaces\bin\Debug\Interfaces.pdb
+D:\VisualStudio\Gomez.Nicolas.2C\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Gomez.Nicolas.2C\Interfaces\obj\Debug\Interfaces.dll
+D:\VisualStudio\Gomez.Nicolas.2C\Interfaces\obj\Debug\Interfaces.pdb
