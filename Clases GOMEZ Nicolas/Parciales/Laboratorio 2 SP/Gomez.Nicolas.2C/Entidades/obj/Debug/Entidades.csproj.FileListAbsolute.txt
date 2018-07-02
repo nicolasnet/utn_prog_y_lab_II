@@ -1,0 +1,12 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\bin\Debug\Entidades.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\bin\Debug\Entidades.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\obj\Debug\Entidades.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\obj\Debug\Entidades.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\bin\Debug\Excepciones.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Entidades\bin\Debug\Excepciones.pdb

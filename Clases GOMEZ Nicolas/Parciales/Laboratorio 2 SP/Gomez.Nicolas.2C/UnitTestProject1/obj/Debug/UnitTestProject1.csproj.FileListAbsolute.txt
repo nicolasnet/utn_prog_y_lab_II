@@ -1,0 +1,9 @@
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\bin\Debug\Entidades.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\bin\Debug\Excepciones.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\bin\Debug\Entidades.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\bin\Debug\Excepciones.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

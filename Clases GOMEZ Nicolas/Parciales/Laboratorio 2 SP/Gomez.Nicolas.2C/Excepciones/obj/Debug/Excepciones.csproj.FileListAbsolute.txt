@@ -1,0 +1,5 @@
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Excepciones\bin\Debug\Excepciones.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Excepciones\bin\Debug\Excepciones.pdb
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Excepciones\obj\Debug\Excepciones.dll
+D:\Gomez Nicolas\Gomez Nicolas Laboratorio-Programacion 2\2DO PARCIAL\Gomez.Nicolas.2C\Excepciones\obj\Debug\Excepciones.pdb
